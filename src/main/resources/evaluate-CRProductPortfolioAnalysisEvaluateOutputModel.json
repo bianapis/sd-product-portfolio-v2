@@ -1,0 +1,20 @@
+{
+  "productPortfolioAnalysisInstanceRecord" : {
+    "productPortfolioAnalysisReport" : {
+      "productAnalysisType" : "productAnalysisType",
+      "productAnalysisResult" : "productAnalysisResult",
+      "productAnalysisReportingDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "787394"
+    },
+    "productPortfolioMakeup" : {
+      "productType" : "productType",
+      "productTypeDefinition" : "productTypeDefinition"
+    },
+    "productPortfolioAnalysisSchedule" : "productPortfolioAnalysisSchedule",
+    "productPortfolioPerformanceGoals" : "productPortfolioPerformanceGoals"
+  },
+  "productPortfolioAnalysisEvaluateActionRecord" : {},
+  "productPortfolioAnalysisEvaluateActionReference" : "PPAEAR772234",
+  "productPortfolioAnalysisInstanceReference" : "PPAIR746615",
+  "productPortfolioAnalysisInstanceStatus" : "productPortfolioAnalysisInstanceStatus"
+}

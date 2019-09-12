@@ -1,0 +1,26 @@
+{
+  "performanceAnalysisInitiateActionRecord" : {},
+  "performanceAnalysisInitiateActionReference" : "PAIAR747907",
+  "performanceAnalysisInstanceRecord" : {
+    "productPerformanceAnalysisTask" : {
+      "productPerformanceModelReference" : "765072",
+      "productPerformanceRequestResult" : "productPerformanceRequestResult",
+      "productPerformanceWorkProducts" : "productPerformanceWorkProducts",
+      "productPerformanceRequestSpecification" : "productPerformanceRequestSpecification",
+      "productPerformanceFinancialMarketResearchReport" : {},
+      "productPerformanceProductServiceActivityReport" : {}
+    },
+    "productPerformanceAnalysisType" : "productPerformanceAnalysisType"
+  },
+  "productPortfolioAnalysisInstanceRecord" : {
+    "productPortfolioAnalysisReport" : {
+      "productAnalysisType" : "productAnalysisType",
+      "productAnalysisResult" : "productAnalysisResult",
+      "productAnalysisReportingDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "708369"
+    },
+    "productPortfolioAnalysisSchedule" : "productPortfolioAnalysisSchedule"
+  },
+  "performanceAnalysisInstanceReference" : "PPAIR779680",
+  "performanceAnalysisInstanceStatus" : "performanceAnalysisInstanceStatus"
+}

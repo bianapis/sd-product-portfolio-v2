@@ -1,0 +1,29 @@
+{
+  "productPortfolioAnalysisRetrieveActionTaskRecord" : {},
+  "productPortfolioAnalysisInstanceReportRecord" : {
+    "productPortfolioAnalysisInstanceReportData" : "productPortfolioAnalysisInstanceReportData",
+    "productPortfolioAnalysisInstanceReportType" : "productPortfolioAnalysisInstanceReportType",
+    "productPortfolioAnalysisInstanceReport" : {}
+  },
+  "productPortfolioAnalysisInstanceRecord" : {
+    "productPortfolioAnalysisReport" : {
+      "productAnalysisType" : "productAnalysisType",
+      "productAnalysisResult" : "productAnalysisResult",
+      "productAnalysisReportingDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "794639"
+    },
+    "productPortfolioMakeup" : {
+      "productType" : "productType",
+      "productTypeDefinition" : "productTypeDefinition"
+    },
+    "productPortfolioAnalysisSchedule" : "productPortfolioAnalysisSchedule",
+    "productPortfolioPerformanceGoals" : "productPortfolioPerformanceGoals"
+  },
+  "productPortfolioAnalysisRetrieveActionTaskReference" : "PPARATR709288",
+  "productPortfolioAnalysisRetrieveActionResponse" : "productPortfolioAnalysisRetrieveActionResponse",
+  "productPortfolioAnalysisInstanceAnalysis" : {
+    "productPortfolioAnalysisInstanceAnalysisData" : "productPortfolioAnalysisInstanceAnalysisData",
+    "productPortfolioAnalysisInstanceAnalysisReportType" : "productPortfolioAnalysisInstanceAnalysisReportType",
+    "productPortfolioAnalysisInstanceAnalysisReport" : {}
+  }
+}

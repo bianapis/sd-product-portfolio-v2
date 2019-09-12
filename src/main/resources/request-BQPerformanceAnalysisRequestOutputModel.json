@@ -1,0 +1,17 @@
+{
+  "performanceAnalysisRequestRecordReference" : "PARRR744376",
+  "performanceAnalysisInstanceRecord" : {
+    "productPerformanceAnalysisTask" : {
+      "productPerformanceModelReference" : "744404",
+      "productPerformanceRequestResult" : "productPerformanceRequestResult",
+      "productPerformanceWorkProducts" : "productPerformanceWorkProducts",
+      "productPerformanceRequestSpecification" : "productPerformanceRequestSpecification",
+      "productPerformanceFinancialMarketResearchReport" : {},
+      "productPerformanceProductServiceActivityReport" : {}
+    },
+    "productPerformanceAnalysisType" : "productPerformanceAnalysisType"
+  },
+  "performanceAnalysisRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {},
+  "performanceAnalysisRequestActionTaskReference" : "PPARATR758306"
+}

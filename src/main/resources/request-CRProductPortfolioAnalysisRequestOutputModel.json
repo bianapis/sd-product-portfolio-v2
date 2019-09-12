@@ -1,0 +1,20 @@
+{
+  "requestRecordReference" : "RRR780459",
+  "productPortfolioAnalysisRequestActionTaskReference" : "PPARATR759511",
+  "productPortfolioAnalysisRequestActionTaskRecord" : {},
+  "productPortfolioAnalysisInstanceRecord" : {
+    "productPortfolioAnalysisReport" : {
+      "productAnalysisType" : "productAnalysisType",
+      "productAnalysisResult" : "productAnalysisResult",
+      "productAnalysisReportingDate" : "09-22-2018",
+      "documentDirectoryEntryInstanceReference" : "726519"
+    },
+    "productPortfolioMakeup" : {
+      "productType" : "productType",
+      "productTypeDefinition" : "productTypeDefinition"
+    },
+    "productPortfolioAnalysisSchedule" : "productPortfolioAnalysisSchedule",
+    "productPortfolioPerformanceGoals" : "productPortfolioPerformanceGoals"
+  },
+  "requestResponseRecord" : {}
+}

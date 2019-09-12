@@ -1,0 +1,16 @@
+{
+  "performanceAnalysisUpdateActionTaskReference" : "PPAUATR739088",
+  "performanceAnalysisInstanceRecord" : {
+    "productPerformanceAnalysisTask" : {
+      "productPerformanceModelReference" : "740075",
+      "productPerformanceRequestResult" : "productPerformanceRequestResult",
+      "productPerformanceWorkProducts" : "productPerformanceWorkProducts",
+      "productPerformanceRequestSpecification" : "productPerformanceRequestSpecification",
+      "productPerformanceFinancialMarketResearchReport" : {},
+      "productPerformanceProductServiceActivityReport" : {}
+    },
+    "productPerformanceAnalysisType" : "productPerformanceAnalysisType"
+  },
+  "updateResponseRecord" : {},
+  "performanceAnalysisUpdateActionTaskRecord" : {}
+}
